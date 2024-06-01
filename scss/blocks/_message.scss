@@ -1,0 +1,26 @@
+.my-message {
+    padding: 10px 20px;
+    background-color: #8bddb0;
+    max-width: 255px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    align-self: flex-end;
+}
+
+.user-message {
+    padding: 10px 20px;
+    background-color: $white;
+    max-width: 255px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    align-self: start;
+}
+
+.message {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

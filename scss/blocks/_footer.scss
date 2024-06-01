@@ -1,0 +1,30 @@
+.footer {
+    background-color: $white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.camera-btn, .button-send, .microphone-btn {
+    color: $sky-blue;
+    font-size: 40px;
+}
+
+.footer-input {
+    font-size: 20px;
+    padding: 15px 20px;
+    border: 2px solid $sky-blue;
+    border-radius: 40px;
+    font-family: Nunito;
+    width: 800px;
+}
+
+.footer-input::placeholder {
+    color: #000;
+    font-family: Nunito;
+    font-size: 20px;
+}
+
+.footer-inner {
+    padding: 10px 0px;
+}

@@ -1,0 +1,21 @@
+.avatar-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.user-name {
+    font-size: 25px;
+}
+
+.user-time {
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 0.6;
+}
+
+.avatar {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}

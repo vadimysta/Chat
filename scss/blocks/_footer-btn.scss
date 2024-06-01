@@ -1,0 +1,13 @@
+.nav-footer__left {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.nav-footer-right {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    position: relative;
+    left: -50px;
+}
